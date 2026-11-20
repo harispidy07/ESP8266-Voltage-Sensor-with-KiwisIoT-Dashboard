@@ -67,7 +67,7 @@ Upload the code to the NodeMCU ESP8266 and monitor voltage readings through the 
 [https://www.hackster.io/harispidy07/esp8266-voltage-sensor-with-kiwisiot-dashboard-0ff5a1](https://www.hackster.io/harispidy07/esp8266-voltage-sensor-with-kiwisiot-dashboard-0ff5a1)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
